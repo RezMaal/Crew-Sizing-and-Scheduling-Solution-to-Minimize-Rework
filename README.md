@@ -22,7 +22,7 @@ where the objective function seeks to minimize the total cost, which consists of
 
 # Implementation and Dependencies
 
-The code was implemented in Matlab and solved using the Gorubi integer programming (v. 12.0.0). As such, in order to utilize the code, the user must install the following in addition to an up-to-date Matlab software:
+The code was implemented in Matlab and solved using the Gurobi integer programming (v. 12.0.0). As such, in order to utilize the code, the user must install the following in addition to an up-to-date Matlab software:
 
 1- Gurobi Solver for Matlab to solve the MILP and MIQCP problems
 
@@ -38,7 +38,7 @@ The code provides the user with the opportunity to change the costs, resource de
 # Explanation on Code and Provided Files
 
 
-As part of this Repository, three folders are privided:
+As part of this Repository, three folders are provided:
 
 1- Inputs, which includes the required input data, such as mesh model of each element (in .stl format) and input matrices (e.g., Distance matrix for spatial constraints).
 
