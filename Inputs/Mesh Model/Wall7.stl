@@ -1,0 +1,114 @@
+solid Basic Wall Generic - 200mm [433063] Geometry
+facet normal 0 6.9692 0
+outer loop
+vertex 2.86 8.78 2.62
+vertex 2.86 8.78 0
+vertex 0.2 8.78 0
+endloop
+endfacet
+facet normal 0 6.9692 0
+outer loop
+vertex 2.86 8.78 2.62
+vertex 0.2 8.78 0
+vertex 0.2 8.78 2.62
+endloop
+endfacet
+facet normal 0 0.524 0
+outer loop
+vertex 0.2 8.78 2.62
+vertex 2.27402e-14 8.78 0
+vertex 2.27402e-14 8.78 2.62
+endloop
+endfacet
+facet normal 0 0.524 0
+outer loop
+vertex 2.27402e-14 8.78 0
+vertex 0.2 8.78 2.62
+vertex 0.2 8.78 0
+endloop
+endfacet
+facet normal 0 -7.4932 0
+outer loop
+vertex 2.86 8.58 2.62
+vertex 1.84087e-14 8.58 2.62
+vertex 2.27402e-14 8.58 0
+endloop
+endfacet
+facet normal 0 -7.4932 0
+outer loop
+vertex 2.27402e-14 8.58 0
+vertex 2.86 8.58 0
+vertex 2.86 8.58 2.62
+endloop
+endfacet
+facet normal 0 0 -0.572002
+outer loop
+vertex 0.2 8.78 0
+vertex 2.86 8.58 0
+vertex 2.27402e-14 8.58 0
+endloop
+endfacet
+facet normal 0 0 -0.532002
+outer loop
+vertex 2.86 8.58 0
+vertex 0.2 8.78 0
+vertex 2.86 8.78 0
+endloop
+endfacet
+facet normal 0 0 -0.0400002
+outer loop
+vertex 0.2 8.78 0
+vertex 2.27402e-14 8.58 0
+vertex 2.27402e-14 8.78 0
+endloop
+endfacet
+facet normal 0.524002 0 0
+outer loop
+vertex 2.86 8.78 2.62
+vertex 2.86 8.58 2.62
+vertex 2.86 8.58 0
+endloop
+endfacet
+facet normal 0.524002 0 0
+outer loop
+vertex 2.86 8.58 0
+vertex 2.86 8.78 0
+vertex 2.86 8.78 2.62
+endloop
+endfacet
+facet normal -0.524002 0 -8.66297e-16
+outer loop
+vertex 2.27402e-14 8.78 0
+vertex 2.27402e-14 8.58 0
+vertex 1.84087e-14 8.58 2.62
+endloop
+endfacet
+facet normal -0.524002 1.13484e-14 0
+outer loop
+vertex 1.84087e-14 8.58 2.62
+vertex 2.27402e-14 8.78 2.62
+vertex 2.27402e-14 8.78 0
+endloop
+endfacet
+facet normal 0 0 0.0400002
+outer loop
+vertex 0.2 8.78 2.62
+vertex 2.27402e-14 8.78 2.62
+vertex 1.84087e-14 8.58 2.62
+endloop
+endfacet
+facet normal 0 0 0.532002
+outer loop
+vertex 2.86 8.58 2.62
+vertex 2.86 8.78 2.62
+vertex 0.2 8.78 2.62
+endloop
+endfacet
+facet normal 0 0 0.572002
+outer loop
+vertex 1.84087e-14 8.58 2.62
+vertex 2.86 8.58 2.62
+vertex 0.2 8.78 2.62
+endloop
+endfacet
+endsolid Basic Wall Generic - 200mm [433063] Geometry

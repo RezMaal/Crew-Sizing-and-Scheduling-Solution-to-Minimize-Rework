@@ -1,0 +1,254 @@
+solid Basic Wall Generic - 200mm [433781] Geometry
+facet normal 0 0.769679 0
+outer loop
+vertex 32.4 0.2 0
+vertex 31.6288 0.2 0.164045
+vertex 31.6288 0.2 1.16204
+endloop
+endfacet
+facet normal 0 0.458717 0
+outer loop
+vertex 31.6288 0.2 0.164045
+vertex 32.4 0.2 0
+vertex 29.6037 0.2 4.03399e-24
+endloop
+endfacet
+facet normal 0 4.07687 0
+outer loop
+vertex 29.6037 0.2 2.62
+vertex 32.4 0.2 2.62
+vertex 31.6288 0.2 1.16204
+endloop
+endfacet
+facet normal 0 2.0206 0
+outer loop
+vertex 31.6288 0.2 1.16204
+vertex 32.4 0.2 2.62
+vertex 32.4 0.2 0
+endloop
+endfacet
+facet normal 0 2.26566 0
+outer loop
+vertex 29.6037 0.2 2.62
+vertex 31.6288 0.2 1.16204
+vertex 30.0748 0.2 1.16204
+endloop
+endfacet
+facet normal 0 0.232408 0
+outer loop
+vertex 29.4037 0.2 -4.03399e-24
+vertex 30.0748 0.2 1.16204
+vertex 29.6037 0.2 4.03399e-24
+endloop
+endfacet
+facet normal 0 0.291589 0
+outer loop
+vertex 29.4037 0.2 2.62
+vertex 29.6037 0.2 2.62
+vertex 30.0748 0.2 1.16204
+endloop
+endfacet
+facet normal 0 1.75821 0
+outer loop
+vertex 30.0748 0.2 1.16204
+vertex 29.4037 0.2 -4.03399e-24
+vertex 29.4037 0.2 2.62
+endloop
+endfacet
+facet normal 0 0.470131 0
+outer loop
+vertex 30.0748 0.2 0.164045
+vertex 29.6037 0.2 4.03399e-24
+vertex 30.0748 0.2 1.16204
+endloop
+endfacet
+facet normal 0 0.254925 0
+outer loop
+vertex 29.6037 0.2 4.03399e-24
+vertex 30.0748 0.2 0.164045
+vertex 31.6288 0.2 0.164045
+endloop
+endfacet
+facet normal -2.18849e-15 -0.66973 0
+outer loop
+vertex 29.4037 -9.28561e-14 0
+vertex 30.0748 -9.5049e-14 0.164045
+vertex 30.0748 -9.5049e-14 1.16204
+endloop
+endfacet
+facet normal -8.33024e-16 -0.254925 -3.38813e-21
+outer loop
+vertex 30.0748 -9.5049e-14 0.164045
+vertex 29.4037 -9.28561e-14 0
+vertex 31.6288 -1.00127e-13 0.164045
+endloop
+endfacet
+facet normal -7.40354e-15 -2.26566 3.38813e-21
+outer loop
+vertex 29.4037 -9.28561e-14 2.62
+vertex 30.0748 -9.5049e-14 1.16204
+vertex 31.6288 -1.00127e-13 1.16204
+endloop
+endfacet
+facet normal -5.74533e-15 -1.75821 0
+outer loop
+vertex 30.0748 -9.5049e-14 1.16204
+vertex 29.4037 -9.28561e-14 2.62
+vertex 29.4037 -9.28561e-14 0
+endloop
+endfacet
+facet normal -2.5151e-15 -0.769679 0
+outer loop
+vertex 31.6288 -1.00127e-13 0.164045
+vertex 32.4 -1.02647e-13 -4.03399e-24
+vertex 31.6288 -1.00127e-13 1.16204
+endloop
+endfacet
+facet normal -1.60617e-15 -0.491526 2.03288e-20
+outer loop
+vertex 32.4 -1.02647e-13 -4.03399e-24
+vertex 31.6288 -1.00127e-13 0.164045
+vertex 29.4037 -9.28561e-14 0
+endloop
+endfacet
+facet normal -1.42749e-14 -4.36846 -1.99053e-20
+outer loop
+vertex 31.6288 -1.00127e-13 1.16204
+vertex 32.4 -1.02647e-13 2.62
+vertex 29.4037 -9.28561e-14 2.62
+endloop
+endfacet
+facet normal -6.60277e-15 -2.0206 0
+outer loop
+vertex 32.4 -1.02647e-13 2.62
+vertex 31.6288 -1.00127e-13 1.16204
+vertex 32.4 -1.02647e-13 -4.03399e-24
+endloop
+endfacet
+facet normal 0.524 0 0
+outer loop
+vertex 32.4 0.2 2.62
+vertex 32.4 -1.02647e-13 2.62
+vertex 32.4 -1.02647e-13 -4.03399e-24
+endloop
+endfacet
+facet normal 0.524 0 0
+outer loop
+vertex 32.4 -1.02647e-13 -4.03399e-24
+vertex 32.4 0.2 0
+vertex 32.4 0.2 2.62
+endloop
+endfacet
+facet normal -0.524 0 0
+outer loop
+vertex 29.4037 0.2 -4.03399e-24
+vertex 29.4037 -9.28561e-14 0
+vertex 29.4037 -9.28561e-14 2.62
+endloop
+endfacet
+facet normal -0.524 0 0
+outer loop
+vertex 29.4037 -9.28561e-14 2.62
+vertex 29.4037 0.2 2.62
+vertex 29.4037 0.2 -4.03399e-24
+endloop
+endfacet
+facet normal -8.06799e-25 1.28938e-23 -0.599259
+outer loop
+vertex 29.6037 0.2 4.03399e-24
+vertex 32.4 -1.02647e-13 -4.03399e-24
+vertex 29.4037 -9.28561e-14 0
+endloop
+endfacet
+facet normal -8.06799e-25 1.12802e-23 -0.559259
+outer loop
+vertex 32.4 -1.02647e-13 -4.03399e-24
+vertex 29.6037 0.2 4.03399e-24
+vertex 32.4 0.2 0
+endloop
+endfacet
+facet normal 1.6136e-24 -8.06794e-25 -0.0399998
+outer loop
+vertex 29.6037 0.2 4.03399e-24
+vertex 29.4037 -9.28561e-14 0
+vertex 29.4037 0.2 -4.03399e-24
+endloop
+endfacet
+facet normal 0 0 -0.3108
+outer loop
+vertex 31.6288 0.2 1.16204
+vertex 31.6288 -1.00127e-13 1.16204
+vertex 30.0748 -9.5049e-14 1.16204
+endloop
+endfacet
+facet normal 0 0 -0.3108
+outer loop
+vertex 30.0748 -9.5049e-14 1.16204
+vertex 30.0748 0.2 1.16204
+vertex 31.6288 0.2 1.16204
+endloop
+endfacet
+facet normal 0.1996 0 0
+outer loop
+vertex 30.0748 0.2 1.16204
+vertex 30.0748 -9.5049e-14 1.16204
+vertex 30.0748 -9.5049e-14 0.164045
+endloop
+endfacet
+facet normal 0.1996 0 0
+outer loop
+vertex 30.0748 -9.5049e-14 0.164045
+vertex 30.0748 0.2 0.164045
+vertex 30.0748 0.2 1.16204
+endloop
+endfacet
+facet normal 0 0 0.3108
+outer loop
+vertex 30.0748 0.2 0.164045
+vertex 30.0748 -9.5049e-14 0.164045
+vertex 31.6288 -1.00127e-13 0.164045
+endloop
+endfacet
+facet normal 0 0 0.3108
+outer loop
+vertex 31.6288 -1.00127e-13 0.164045
+vertex 31.6288 0.2 0.164045
+vertex 30.0748 0.2 0.164045
+endloop
+endfacet
+facet normal -0.1996 0 0
+outer loop
+vertex 31.6288 0.2 0.164045
+vertex 31.6288 -1.00127e-13 0.164045
+vertex 31.6288 -1.00127e-13 1.16204
+endloop
+endfacet
+facet normal -0.1996 0 0
+outer loop
+vertex 31.6288 -1.00127e-13 1.16204
+vertex 31.6288 0.2 1.16204
+vertex 31.6288 0.2 0.164045
+endloop
+endfacet
+facet normal 0 0 0.0399998
+outer loop
+vertex 29.6037 0.2 2.62
+vertex 29.4037 0.2 2.62
+vertex 29.4037 -9.28561e-14 2.62
+endloop
+endfacet
+facet normal 0 0 0.559259
+outer loop
+vertex 32.4 -1.02647e-13 2.62
+vertex 32.4 0.2 2.62
+vertex 29.6037 0.2 2.62
+endloop
+endfacet
+facet normal 0 0 0.599259
+outer loop
+vertex 29.4037 -9.28561e-14 2.62
+vertex 32.4 -1.02647e-13 2.62
+vertex 29.6037 0.2 2.62
+endloop
+endfacet
+endsolid Basic Wall Generic - 200mm [433781] Geometry

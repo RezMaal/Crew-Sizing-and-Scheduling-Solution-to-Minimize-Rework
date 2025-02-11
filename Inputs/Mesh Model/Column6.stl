@@ -1,0 +1,100 @@
+solid Concrete-Rectangular-Column 300 x 450mm [433748] Geometry
+facet normal 0 0 0.210002
+outer loop
+vertex 32.25 14.4 2.62
+vertex 32.25 13.8 2.62
+vertex 32.6 13.8 2.62
+endloop
+endfacet
+facet normal 0 0 0.210002
+outer loop
+vertex 32.6 13.8 2.62
+vertex 32.6 14.4 2.62
+vertex 32.25 14.4 2.62
+endloop
+endfacet
+facet normal 0 0 -0.210002
+outer loop
+vertex 32.25 13.8 0
+vertex 32.25 14.4 0
+vertex 32.6 14.396 0
+endloop
+endfacet
+facet normal 0 0 -0.0013919
+outer loop
+vertex 32.6 14.4 0
+vertex 32.6 14.396 0
+vertex 32.25 14.4 0
+endloop
+endfacet
+facet normal 0 0 -0.20861
+outer loop
+vertex 32.6 14.396 0
+vertex 32.6 13.8 0
+vertex 32.25 13.8 0
+endloop
+endfacet
+facet normal 0 0.917006 0
+outer loop
+vertex 32.6 14.4 2.62
+vertex 32.6 14.4 0
+vertex 32.25 14.4 0
+endloop
+endfacet
+facet normal 0 0.917006 0
+outer loop
+vertex 32.25 14.4 0
+vertex 32.25 14.4 2.62
+vertex 32.6 14.4 2.62
+endloop
+endfacet
+facet normal -1.572 0 0
+outer loop
+vertex 32.25 14.4 2.62
+vertex 32.25 14.4 0
+vertex 32.25 13.8 0
+endloop
+endfacet
+facet normal -1.572 0 0
+outer loop
+vertex 32.25 13.8 0
+vertex 32.25 13.8 2.62
+vertex 32.25 14.4 2.62
+endloop
+endfacet
+facet normal 0 -0.917006 0
+outer loop
+vertex 32.25 13.8 2.62
+vertex 32.25 13.8 0
+vertex 32.6 13.8 0
+endloop
+endfacet
+facet normal 0 -0.917006 0
+outer loop
+vertex 32.6 13.8 0
+vertex 32.6 13.8 2.62
+vertex 32.25 13.8 2.62
+endloop
+endfacet
+facet normal 1.572 0 0
+outer loop
+vertex 32.6 14.4 2.62
+vertex 32.6 13.8 2.62
+vertex 32.6 14.396 0
+endloop
+endfacet
+facet normal 1.56158 0 0
+outer loop
+vertex 32.6 13.8 0
+vertex 32.6 14.396 0
+vertex 32.6 13.8 2.62
+endloop
+endfacet
+facet normal 0.0104193 0 0
+outer loop
+vertex 32.6 14.396 0
+vertex 32.6 14.4 0
+vertex 32.6 14.4 2.62
+endloop
+endfacet
+endsolid Concrete-Rectangular-Column 300 x 450mm [433748] Geometry
