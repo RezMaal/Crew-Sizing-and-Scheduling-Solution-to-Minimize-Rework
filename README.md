@@ -52,7 +52,7 @@ To successfully run the code, all items must be accessible to Matlab at the time
 # Citation
 The study is planned to be published in the proceedings of the 33rd Conference of the International Group for Lean Construction (IGLC), where the mathematical formulations are explained in more detail. You may cite the study using the following information:
 
-R. Maalek (2025). New Mixed Integer Programming Formulation for the Simultaneous Minimization of Cost and Time of Rework due to On-site Assembly Errors in Prefabricated Construction. In O. Seppänen, L. Koskela, & K. Murata (Eds.), Proceedings of the 33rd Annual Conference of the International Group for Lean Construction (IGLC33), Osaka and Kyoto, Japan, June 2025.
+R. Maalek (2025). New Model To Minimize Cost And Time Of Rework Due To Prefabricated Construction Errors. In O. Seppänen, L. Koskela, & K. Murata (Eds.), Proceedings of the 33rd Annual Conference of the International Group for Lean Construction (IGLC33), Osaka and Kyoto, Japan, June 2025.
 
 # Acknowledgements
 The author wishes to acknowledge the generous endowment provided by GOLDBECK GmbH to the Karlsruhe Institute of Technology (KIT) for the establishment of the Professorship in Digital Engineering and Construction at the Institute of Technology and Management in Construction (TMB).
